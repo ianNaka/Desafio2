@@ -1,0 +1,1 @@
+DATABASE_URL=postgresql+psycopg2://Nakaya:Nakaya123@localhost:8000/desafio_db
