@@ -110,18 +110,29 @@ Após a implementação, a documentação interativa estará disponível em:
  Endpoints principais
 Projetos
 POST /projects → Criar projeto
+
 GET /projects → Listar projetos
+
 GET /projects/{id} → Detalhar projeto
+
 PUT /projects/{id} → Atualizar projeto
+
 DELETE /projects/{id} → Excluir projeto
+
 --------------------------------------------------------------------------------------
 Tarefas
 POST /tasks → Criar tarefa
+
 GET /tasks → Listar tarefas
+
 GET /tasks/{id} → Detalhar tarefa
+
 PUT /tasks/{id} → Atualizar tarefa
+
 DELETE /tasks/{id} → Excluir tarefa
+
 -------------------------------------------------------------
+
 Licença
 Projeto para fins de avaliação técnica.
 
